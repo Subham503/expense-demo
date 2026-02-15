@@ -1,0 +1,18 @@
+# Executables
+*.exe
+*.o
+*.out
+
+# Data files (keep these local)
+*.txt
+*.csv
+*.dat
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated
+Thumbs.db
+.DS_Store
